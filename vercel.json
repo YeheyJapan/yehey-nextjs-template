@@ -1,0 +1,15 @@
+{
+    "regions": [
+        "hnd1"
+    ],
+    "build": {
+        "env": {
+            "NEXT_PUBLIC_REST_FACEBOOK_ID": "719647758970995",
+            "NEXT_PUBLIC_REST_FACEBOOK_SECRET": "62cfcdc55926447c00c621b129c03a56",
+            "SECRET": "a413a04a-9af6-4ca6-a132-c41bb3d5dbd9",
+            "NEXT_PUBLIC_SECRET": "a413a04a-9af6-4ca6-a132-c41bb3d5dbd9",
+            "UPSTASH_REDIS_REST_URL": "https://apn1-crisp-turtle-35288.upstash.io",
+            "UPSTASH_REDIS_REST_TOKEN": "AonYASQgN2NmZjBjZTEtMDkzZi00OWI5LWE0MjYtZWZmMmVlNTRlMTFldb0NxCOlbnIojIpNRRMVu7RrT3jcA6K9UBQnNoPvnJc="
+        }
+    }
+}
